@@ -20,11 +20,9 @@ This project is a simple weather application that allows users to get the curren
 
 2. Open the project directory in your code editor.
 
-3. Serve the application using a local server. You can use Python's built-in HTTP server for this:
-    ```sh
-    python -m http.server
-    ```
-   Open your browser and navigate to `http://localhost:8000`.
+3. Serve the application using a local server. 
+
+   Open your browser and navigate to `http://localhost:3000`.
 
 ## Usage
 
