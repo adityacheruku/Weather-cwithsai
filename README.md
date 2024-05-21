@@ -32,18 +32,7 @@ This project is a simple weather application that allows users to get the curren
 2. Enter the name of the location in the search box and press the search button or hit the "Enter" key.
 3. The app will display the current weather information for the entered location, including temperature, weather description, humidity, and wind speed.
 4. If the location is not found, an error message will be displayed.
-weather-app/
-├── images/
-│ ├── 404.png
-│ ├── clear.jpeg
-│ ├── cloud.png
-│ ├── haze.png
-│ ├── rain.jpeg
-│ └── snow.png
-├── index.html
-├── index.js
-├── style.css
-└── README.md
+
 ## File Structure
 
 - **images/**: Contains images used in the app.
